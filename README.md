@@ -1,16 +1,13 @@
-## Hi there 👋
+# 💻👋  
 
-<!--
-**AlejandroLog/AlejandroLog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tecnologías y herramientas  
+- 🏗️ **Lenguajes:** Kotlin, Python, SQL  
+- 🗄️ **Bases de datos:** SQL Server, MongoDB, Firebase  
+- 🔧 **Herramientas:** Git, GitHub, Firebase, Android Studio, VS Code  
 
-Here are some ideas to get you started:
+## 📈 Estadísticas  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandrolog&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrolog&layout=compact&theme=tokyonight)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
