@@ -1,6 +1,5 @@
 # 💻👋  
 
-## 🛠️ Tecnologías y herramientas  
 - 🏗️ **Lenguajes:** Kotlin, Python, SQL  
 - 🔧 **Herramientas:** Git, GitHub, Firebase, Android Studio, VS Code  
 
