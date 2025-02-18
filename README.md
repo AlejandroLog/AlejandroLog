@@ -2,7 +2,6 @@
 
 ## 🛠️ Tecnologías y herramientas  
 - 🏗️ **Lenguajes:** Kotlin, Python, SQL  
-- 🗄️ **Bases de datos:** SQL Server, Firebase  
 - 🔧 **Herramientas:** Git, GitHub, Firebase, Android Studio, VS Code  
 
 ## 📈 Estadísticas  
